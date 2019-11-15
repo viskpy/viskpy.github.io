@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vishal.deeplinking",
+    "sha256_cert_fingerprints":
+    ["6A:20:A7:B5:75:4A:F2:7A:B9:C0:FC:9C:65:6A:53:9C:58:BE:BB:DF:D7:44:B2:17:0E:E7:47:CD:03:20:FA:98"]
+  }
+}]
