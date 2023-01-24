@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.vishal.androiddeeplinking",
+    "package_name": "com.hydra.sdk.example",
     "sha256_cert_fingerprints":
-    ["02:80:78:D7:B5:DB:80:92:4E:E8:F4:9A:62:71:EE:BF:87:B7:15:DB:6F:0F:9F:33:4F:01:34:8A:F7:31:D7:1C"]
+    ["39:3D:5A:AE:48:A3:18:B1:DA:60:B4:51:8E:C3:93:D5:02:70:BE:79:92:2E:82:31:D0:B5:73:BC:DD:0C:3F:AD"]
   }
 }]
